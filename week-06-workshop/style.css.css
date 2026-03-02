@@ -1,0 +1,33 @@
+.my-report-01{
+
+    background:#ffcfe5;;
+    height : 2000px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2{
+    color:  #f5338c;
+    font-size: 2rem;
+    padding-top: 50px;
+    
+}
+
+.row{
+
+    display: flex;
+}
+
+.col{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 20px;
+    flex: 1 1 auto;
+    padding: 100px;
+    background: #ffebf4;
+    padding: 15px;
+    margin: 50px;
+
+}
